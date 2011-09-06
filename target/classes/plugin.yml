@@ -1,0 +1,8 @@
+author: Havejack
+database: false
+description: For very important people
+generator: http://dinnerbone.com/minecraft/tools/pluginator/
+main: me.havejack.plugins.vip.Vip
+name: VIP
+startup: postworld
+version: '1.0'
