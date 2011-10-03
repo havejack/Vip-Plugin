@@ -6,3 +6,13 @@ main: me.havejack.plugins.vip.Vip
 name: VIP
 startup: postworld
 version: '1.0'
+permissions:
+  vip.carpet:
+    default: op
+    description: Player is a celebrity !
+commands:
+  carpet:
+    description: Makes a carpet Below your feet 
+    usage: /<command>
+    aliases: [Redcapert, Rc, awsome]
+    
